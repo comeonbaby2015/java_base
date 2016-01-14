@@ -1,0 +1,36 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/out
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# User-specific configurations
+.idea/copyright/
+.idea/copyright/profiles_settings.xml
+.idea/.name
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+
+# User-specific stuff:
+.idea/tasks.xml
+.idea/dictionaries
+
+# Gradle files
+.gradle/
+.idea/gradle.xml
+.idea/libraries
+
+*.iml
