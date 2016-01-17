@@ -1,4 +1,4 @@
-package ooa.finally_demo;
+package exception;
 
 /**
  * Created by hades on 2016/1/14.
