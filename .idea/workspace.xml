@@ -2,96 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0ef02bb-7ce4-428c-8566-5aab924fe843" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/sort_algorithm/BubbleAlgorithm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/sort_algorithm/QuickSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/sort_algorithm/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/CollectionDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Collections.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Hashtable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_List.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_List_Arrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_List_Stack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Map_EnumMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Map_IdentityHashMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Map_LinkedHashMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Map_TreeMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Map_WeakHashMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Queue_ArrayDeque.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Queue_LinkedListQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Queue_PriorityQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Set.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Set2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Set3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Set_PerformanceComparison.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Set_TreeSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/exception/Exception1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/exception/Exception2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/exception/Exception3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/exception/Exception4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/exception/Exception_catch_and_throw.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/exception/Finally.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/fow_control/Break.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/generic/Generic_Exist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/generic/Generic_Inheritance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/generic/Generic_Unchecked.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/generic/Generic_WildCard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/network/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/network/MyClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/network/MyServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/network/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/object/ObjectDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/AbstractDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/CloneDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/CloneDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/CloneDemo3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/CloneDemo4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/EqualsDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/FAQ1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/FAQ2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/FAQ3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/FAQ4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/FinalDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/FinalizationDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/HashCodeDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/InheritDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/InstanceofDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/IntefaceDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/ObjectsDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/PhantomReferenceDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/ReferenceDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/StaticDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/StaticDemo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/StringDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/SubClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/objects/WrapperClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thead_Sleep.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Create.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Daemon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Join.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Priority.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Stop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Synchronization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Synchronization2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Synchronization3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/thread/Thread_Yield.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/util/CalendarDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crazy_java_notes/src/util/DateFormatDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq/src/collection/TreeMapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq/src/object/OuterClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq/src/object/TxtCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq/src/object/demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq/src/serialize/ExternalizableDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faq/src/serialize/SerializableDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern_design/src/observer_pattern/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern_design/src/observer_pattern/observer/ConcreteObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern_design/src/observer_pattern/observer/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern_design/src/observer_pattern/subject/ConcreteSubject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern_design/src/observer_pattern/subject/Subject.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ooa/finally_demo/FinallyDemo.java" afterPath="$PROJECT_DIR$/faq/src/exception/FinallyDemo.java" />
     </list>
     <ignored path="java_base.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,7 +24,38 @@
     <favorites_list name="java_base" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Collection_Hashtable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Hashtable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43243244">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,6 +79,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/crazy_java_notes/src/objects/EqualsDemo.java" />
         <option value="$PROJECT_DIR$/pattern_design/src/observer_pattern/observer/ConcreteObserver.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -200,52 +143,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern_design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pattern_design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="faq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -727,26 +624,26 @@
       <workItem from="1452782113940" duration="757000" />
       <workItem from="1452785397096" duration="1059000" />
       <workItem from="1452867418347" duration="605000" />
-      <workItem from="1453036951251" duration="1041000" />
+      <workItem from="1453036951251" duration="1629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3462000" />
+    <option name="totallyTimeSpent" value="4050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -795,14 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7433217">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1017,6 +906,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crazy_java_notes/src/collection/Collection_Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43243244">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding />
         </state>
       </provider>
